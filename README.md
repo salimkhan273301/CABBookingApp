@@ -35,7 +35,7 @@ List of features ready and TODOs for future development
 You just need to clone the repository using the following command.
 
 ```bash
-  git clone https://github.com/shaikzahid0713/Cab-Management-System
+  git clone https://github.com/salimkhan273301
 ```
     
 ## Contributors
