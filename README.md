@@ -1,6 +1,45 @@
-My name is Mohd Salimullah and I am a Full Stack Developer Trainee at Revature with a focus in Project Development And Management. My dream is to become a Full Stack Software Developer from my school days and now I am very passionate about this. I believe that I can grasp new things very easily and quickly. I always like to explore new technologies.
 
-During my graduation, in Computer Science & Engineering from Shaheed Bhagat Singh State Technical Campus,Now(Shaheed Bhagat Singh State University), I underwent  "Web Development Using Python-Django"  Training Program. After that, I developed my web application named "Speedex courier service: Innovative speedex courier service is a web based application used to manage the work,regarding courier services in effective manner" . I have an experience in both backend technologies (including Java, SQL, Spring framework, and Microservices architecture) as well as frontend development (including HTML/CSS, JavaScript, Bootstrap).
+# Cab Management System
+
+- Implemented a Cab Booking system for a small company/group. This program will allow employees to book a cab. When they approve/deny they can optionally leave a message.
+- Key features: 
+    - Employee - An employee can login to add a Cab booking request. 
+    - Manager - All Managers can view these requests and approve or deny them.
+    - Admin - Admin can view all booking details and can add a cab,update and delete a cab. 
+- Data is already recorded in the database.. Backend developed using Java, Collections, Jdbc, MySQL .Implemented Junit test cases, Log4j for recording log messages.
+
+ 
 
 
-I'm a goal-talented, determined and ambitious person with a passion for software development. My eagerness to learn and motivated attitude is reflected in my previous work. I used to solve coding challenges in my free time and had completed the Java(Basic) certification from HackerRank.  I really enjoy collaborative team environments where I can learn from others, and I had worked hard to improve my interpersonal and communication skills. I look forward with all of my skills and prior experience to always add some value to my organization.
+
+ 
+
+## Technologies Used
+- Java
+- JDBC
+- MySQL
+- Log4j
+- JUnit
+
+## Features
+
+List of features ready and TODOs for future development
+
+- Awesome feature 1
+- Awesome feature 2
+- Awesome feature 3
+
+
+## Getting Started
+
+You just need to clone the repository using the following command.
+
+```bash
+  git clone https://github.com/shaikzahid0713/Cab-Management-System
+```
+    
+## Contributors
+
+Contributions are always welcome!
+
+Please adhere to this project's `code of conduct`.
